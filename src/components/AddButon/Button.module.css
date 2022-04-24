@@ -1,0 +1,18 @@
+.button{
+    margin-top: 10px;
+    background-color: darkcyan;
+    height: 35px;
+    border-radius: 5px;
+    width: 150px;
+}
+
+
+.button:hover {
+
+    background: palegreen;
+
+}
+
+.Add {
+    margin-left: 10px;
+}

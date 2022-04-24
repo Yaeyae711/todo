@@ -1,0 +1,18 @@
+.checked-item {
+    text-decoration: line-through;
+}
+
+.delete{
+    margin-left:180px 
+}
+
+
+
+.list{
+    display: flex;
+    justify-content: space-between;
+}
+
+span{
+    margin-left:100px;
+}
